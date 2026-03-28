@@ -10,9 +10,7 @@ This repository is to document all the groundwork done to lay the foundations of
 ```
 ├───README.md (you're here right now!)
 ├───assets/
-│       logo.png
 ├───docs/
-│       CRSV Review.pdf
+├───groundwork/
 └───research/
-        Dr_Sally.md
 ```
